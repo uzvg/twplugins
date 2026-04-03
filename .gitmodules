@@ -4,3 +4,6 @@
 [submodule "tw5-relink"]
 	path = tw5-relink
 	url = git@github.com:flibbles/tw5-relink.git
+[submodule "TW-Gatha"]
+	path = TW-Gatha
+	url = git@github.com:kookma/TW-Gatha.git
