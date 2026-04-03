@@ -1,3 +1,6 @@
+[submodule "TiddlyRemember"]
+	path = TiddlyRemember
+	url = git@github.com:sobjornstad/TiddlyRemember.git
 [submodule "tw5-relink"]
 	path = tw5-relink
 	url = git@github.com:flibbles/tw5-relink.git
