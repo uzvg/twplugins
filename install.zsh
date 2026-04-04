@@ -24,4 +24,12 @@ done
 
 # install TiddlyRemember
 
-ln -s $(realpath "./TiddlyRemember/tw-plugin") $TIDDLYWIKI_PLUGINS_DIR/TiddlyRemember
+ln -s $(realpath "./TiddlyRemember/tw-plugin") -t $TIDDLYWIKI_PLUGINS_DIR
+
+# Install gatha
+ln -s $(realpath "./TW-Gatha/gatha") -t $TIDDLYWIKI_PLUGINS_DIR/
+
+
+# Install TiddlyCrafts plugins
+ln -s $(realpath "./TiddlyCrafts/src/twks-details/") -t $TIDDLYWIKI_PLUGINS_DIR
+ln -s $(realpath "./TiddlyCrafts/src/twks-image/") -t $TIDDLYWIKI_PLUGINS_DIR
