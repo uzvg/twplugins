@@ -7,3 +7,6 @@
 [submodule "TW-Gatha"]
 	path = TW-Gatha
 	url = git@github.com:kookma/TW-Gatha.git
+[submodule "TiddlyCrafts"]
+	path = TiddlyCrafts
+	url = git@github.com:uzvg/TiddlyCrafts.git
